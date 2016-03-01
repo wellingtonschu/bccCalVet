@@ -11,5 +11,7 @@ public class Main {
         System.out.println("Sou calouro burro");
         System.out.println("Eu amo meus veteranos");
 
+        input.close();
+
     }
 }
